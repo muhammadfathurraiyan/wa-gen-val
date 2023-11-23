@@ -1,0 +1,658 @@
+[1123/212312.267:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212312.268:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212312.268:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212312.367:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212312.367:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212312.367:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212312.987:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212314.230:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212314.321:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212314.321:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212314.657:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212316.278:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212318.295:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212320.316:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212403.733:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212403.734:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212403.734:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212403.735:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212403.736:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212403.736:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212404.359:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212404.360:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212404.824:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212405.749:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212406.561:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212406.562:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212406.562:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212406.561:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212406.637:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212406.637:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212407.298:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212407.298:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212407.669:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212407.948:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212408.600:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212409.975:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212410.631:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212411.984:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212412.645:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212414.659:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212643.107:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212643.140:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212643.140:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212643.141:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212643.141:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212643.141:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212643.792:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212643.792:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212644.262:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212644.777:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212644.787:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212644.787:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212644.788:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212644.788:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212644.788:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212645.056:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212645.185:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212645.187:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212645.558:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212646.777:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212646.787:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212646.806:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212646.806:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212646.807:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212646.807:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212646.807:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212647.091:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212647.221:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212647.221:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212647.557:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212648.785:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212648.802:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212649.101:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212649.439:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212649.443:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212649.443:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212649.444:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212649.444:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212649.444:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212649.947:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212649.951:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212650.300:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212650.821:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212650.822:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212651.119:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212651.479:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212652.837:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212652.837:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212653.111:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212653.111:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212653.117:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212653.117:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212653.117:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212653.117:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212653.474:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212653.475:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212653.502:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212653.862:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212654.857:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212655.136:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212655.519:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212657.184:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212657.573:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212659.205:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212701.221:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212702.075:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212702.075:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212702.075:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212702.076:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212702.077:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212702.077:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212702.584:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212702.586:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212702.952:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212704.102:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212706.112:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212708.135:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212710.143:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212850.747:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212850.748:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212850.748:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212850.749:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212850.749:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212850.749:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212851.702:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212851.702:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212852.074:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212852.771:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212854.785:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212856.799:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212858.814:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212934.432:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212934.438:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212934.438:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212934.438:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212934.439:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212934.439:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212934.898:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212934.898:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212935.226:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212936.453:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212938.478:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212940.497:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212942.530:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212945.920:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212945.932:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212945.932:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212945.934:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212945.934:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212945.934:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212946.283:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212946.283:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212946.604:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212947.930:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212949.118:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212949.122:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212949.122:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212949.127:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212949.127:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212949.127:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/212949.579:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/212949.579:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/212949.902:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/212949.952:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212951.145:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212951.978:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212953.153:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212954.000:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212955.163:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/212957.187:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213027.234:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213027.234:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213027.235:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213027.235:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213027.235:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213027.235:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213028.310:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213028.311:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213028.684:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213029.332:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213030.383:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213030.383:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213030.383:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213030.383:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213030.384:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213030.384:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213031.351:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213031.419:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213031.420:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213031.791:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213032.419:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213033.411:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213034.443:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213035.452:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213036.464:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213038.492:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213247.388:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213247.394:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213247.394:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213247.395:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213247.398:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213247.398:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213248.174:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213248.175:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213248.496:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213249.398:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213250.059:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213250.062:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213250.062:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213250.063:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213250.063:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213250.063:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213251.556:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213252.142:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213253.641:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213253.914:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213253.945:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213253.945:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213253.946:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213253.946:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213253.946:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213254.181:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213254.771:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213254.774:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213255.129:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213255.663:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213256.213:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213258.244:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213318.752:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213318.752:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213318.752:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213318.754:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213318.755:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213318.755:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213319.664:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213319.664:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213320.028:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213320.787:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213322.808:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213324.836:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213326.853:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213435.343:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213435.344:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213435.346:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213435.346:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213435.346:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213435.346:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213435.910:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213435.911:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213436.297:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213437.406:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213439.435:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213441.456:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213443.543:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213554.531:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213554.541:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213554.541:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213554.546:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213554.547:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213554.547:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213555.490:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213555.490:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213555.490:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213555.495:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213555.495:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213555.495:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213556.040:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213556.041:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213556.041:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213556.046:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213556.047:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213556.047:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213556.139:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213556.139:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213556.507:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213556.534:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213557.039:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213557.039:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213557.412:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213558.053:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213558.554:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213609.568:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213609.568:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213609.568:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213609.567:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213609.569:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213609.569:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213610.230:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213610.230:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213610.604:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213611.573:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213613.613:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213615.619:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213617.647:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213629.748:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213629.749:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213629.749:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213629.750:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213629.750:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213629.750:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213630.544:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213630.545:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213630.545:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213630.545:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213630.546:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213630.546:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213630.984:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213630.984:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213631.323:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213631.782:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213632.516:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213632.516:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213632.517:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213632.517:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213632.522:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213632.522:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213632.738:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213632.823:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213632.823:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213632.824:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213632.824:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213632.824:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213634.552:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213634.787:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213636.471:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213636.471:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213636.471:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213636.472:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213636.472:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213636.472:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213636.644:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213636.853:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213637.855:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213637.855:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213638.153:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213638.153:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213638.497:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213638.689:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213638.722:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213639.014:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213641.604:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213641.604:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213641.604:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213641.606:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213641.606:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213641.606:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213642.100:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213642.100:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213642.437:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213643.088:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213643.088:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213643.088:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213643.096:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213643.096:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213643.096:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213643.617:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213643.686:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213643.687:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213644.019:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213645.133:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213645.629:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213647.160:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213647.649:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213649.179:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213649.665:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213651.245:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213654.337:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213654.338:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213654.338:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213654.351:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213654.351:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213654.351:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/213654.904:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/213654.904:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/213655.302:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/213656.346:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213658.370:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213700.393:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/213702.412:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214018.737:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214018.738:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214018.738:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214018.739:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214018.740:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214018.740:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214019.446:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214019.446:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214019.796:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214020.745:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214021.822:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214021.828:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214021.828:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214021.828:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214021.829:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214021.829:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214022.415:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214022.415:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214022.754:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214022.946:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214023.761:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214024.969:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214025.819:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214026.988:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214027.841:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214029.869:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214035.642:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214035.653:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214035.653:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214035.654:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214035.654:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214035.654:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214036.410:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214036.410:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214036.991:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214037.636:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214039.651:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214041.670:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214043.721:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214046.040:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214046.043:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214046.044:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214046.044:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214046.044:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214046.044:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214048.054:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214048.210:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214048.219:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214048.219:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214048.220:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214048.220:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214048.220:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214048.764:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214048.764:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214049.085:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214050.211:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214052.251:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214054.268:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214056.284:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214105.377:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214105.390:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214105.390:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214105.391:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214105.391:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214105.391:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214105.837:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214105.837:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214106.400:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214107.403:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214107.887:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214107.888:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214107.888:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214107.887:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214107.888:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214107.888:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214108.444:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214108.445:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214108.791:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214109.420:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214109.894:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214111.440:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214111.912:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214113.465:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214113.916:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214115.941:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214125.138:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214125.138:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214125.138:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214125.140:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214125.140:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214125.140:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214125.788:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214125.788:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214126.243:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214127.202:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214128.288:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214128.289:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214128.289:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214128.289:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214128.289:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214128.289:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214128.858:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214128.859:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214129.179:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214129.270:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214130.306:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214130.374:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214130.374:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214130.375:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214130.390:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214130.391:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214130.391:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214130.859:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214130.859:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214131.201:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214131.323:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214132.343:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214132.360:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214132.970:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214132.970:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214132.970:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214132.970:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214132.970:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214132.970:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214133.286:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214133.286:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214133.286:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214133.287:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214133.287:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214133.287:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214133.358:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214133.622:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214133.623:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214133.973:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214134.386:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214134.387:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214134.554:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214134.554:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214134.554:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214134.554:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214134.555:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214134.555:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214134.959:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214135.141:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214135.142:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214135.461:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214136.406:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214136.407:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214136.570:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214136.651:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214136.653:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214136.653:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214136.654:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214136.654:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214136.654:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214137.068:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214137.417:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214137.417:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214137.793:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214138.433:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214138.587:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214138.672:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214139.092:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214140.616:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214140.682:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214141.102:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214142.639:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214142.702:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214144.733:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214151.852:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214151.852:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214151.853:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214151.853:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214151.853:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214151.853:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214152.304:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214152.304:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214152.639:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214153.856:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214155.868:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214157.272:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214157.274:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214157.274:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214157.284:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214157.285:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214157.285:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214157.772:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214157.772:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214157.891:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214158.128:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214159.215:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214159.221:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214159.221:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214159.222:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214159.222:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214159.222:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214159.306:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214159.677:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214159.677:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214159.927:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214200.025:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214201.219:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214201.331:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214203.242:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214203.354:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214204.058:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214204.058:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214204.059:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214204.059:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214204.059:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214204.059:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214204.604:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214204.604:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214204.916:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214205.254:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214205.415:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214206.074:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214207.288:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214208.093:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214210.118:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214212.139:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214220.669:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214220.671:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214220.674:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214220.674:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214220.674:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214220.674:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214221.203:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214221.203:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214221.840:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214222.683:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214223.572:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214223.573:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214223.573:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214223.574:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214223.574:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214223.574:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214223.987:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214223.987:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214224.299:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214224.719:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214225.598:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214226.732:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214227.618:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214228.749:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214229.633:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214231.641:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214231.752:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214231.752:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214231.752:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214231.752:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214231.753:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214231.753:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214232.168:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214232.168:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214232.486:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214233.813:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214235.821:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214237.848:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214238.831:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214238.831:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214238.832:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214238.832:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214238.832:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214238.832:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214239.139:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214239.139:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214239.140:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214239.140:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214239.140:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214239.140:ERROR:gpu_disk_cache.cc(676)] Gpu Cache Creation failed: -2
+[1123/214239.385:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1123/214239.386:ERROR:disk_cache.cc(205)] Unable to create cache
+[1123/214239.723:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[1123/214239.886:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214240.841:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214242.872:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214244.897:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1123/214246.906:WARNING:leveldb_database.cc(123)] Unable to open D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata: IO error: D:\file\belajar next\wa-gen-val\profileData\Default\shared_proto_db\metadata/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
