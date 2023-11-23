@@ -3,6 +3,6 @@ import { z } from "zod";
 export const HLRSchema = z.object({
   wa: z
     .string()
-    .min(1, { message: "number must be at least 1 character long" })
-    .max(7, { message: "number must be at most be 7 charater long" }),
+    .min(1, { message: "nomot harus lebih dari 1 karakter" })
+    .max(7, { message: "nomor tidak boleh kurang dari 7 karakter" }),
 });

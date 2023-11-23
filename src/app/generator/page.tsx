@@ -5,6 +5,7 @@ import { useRef, useState } from "react";
 
 export default function page() {
   const [error, setError] = useState("");
+  const [response, setResponse] = useState([""]);
   const ref = useRef<HTMLFormElement>(null);
 
   const clientAction = async (data: FormData) => {
@@ -29,23 +30,27 @@ export default function page() {
     if (response?.error) {
       setError(response.error);
     }
+
+    if (response?.ArrayData) {
+      setResponse(response.ArrayData);
+    }
   };
   return (
     <section className="min-h-screen px-24 py-12 flex flex-col gap-4">
-      <h1 className="font-bold text-2xl">Generator & Validator</h1>
+      <h1 className="font-bold text-2xl">WhatsAppGenVal</h1>
       <div>
-        <p className="text-xl">How to use!</p>
-        <ul className="list-disc list-inside">
-          <li>Input your HLR ✅</li>
-          <li>Click generate ✅</li>
-          <li>Wait few minutes ✅</li>
-          <li>Result will show in the table ✅</li>
+        <p className="text-lg">Cara menggunakan!</p>
+        <ul className="list-disc list-inside text-base">
+          <li>Input HLR ✅</li>
+          <li>Klik generate ✅</li>
+          <li>Tunggu beberapa saat ✅</li>
+          <li>Hasil akan tampil pada tabel di bawah ✅</li>
         </ul>
       </div>
       <form ref={ref} action={clientAction} className="flex gap-4">
         <label htmlFor="wa">Input HLR :</label>
         <input
-          className="bg-inherit border-2 px-2 rounded-md border-cyan-600"
+          className="bg-inherit border-2 pl-2 rounded-md border-cyan-600"
           type="number"
           name="wa"
           placeholder="6281234"
@@ -55,21 +60,23 @@ export default function page() {
         </button>
         <p>{error}</p>
       </form>
-      <h1 className="font-bold text-2xl">Table of results</h1>
+      <h1 className="font-bold text-xl">Table hasil.</h1>
       <table>
-        <thead>
+        <thead className="bg-cyan-600 text-neutral-950 border border-cyan-600">
           <tr>
-            <th>No</th>
-            <th>Whatsapp</th>
-            <th>Action</th>
+            <th className="px-2 py-1 w-[20px]">No</th>
+            <th className="px-2 py-1">Whatsapp</th>
+            <th className="px-2 py-1">Action</th>
           </tr>
         </thead>
-        <tbody>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
+        <tbody className="text-center border border-cyan-600">
+          {response.map((res, index) => (
+            <tr key={index} className="border-t border-cyan-600">
+              <td className="py-1 w-[20px] border-r border-cyan-600">{index + 1}</td>
+              <td className="px-2 py-1 border-r border-cyan-600">{res}</td>
+              <td className="px-2 py-1">Valid</td>
+            </tr>
+          ))}
         </tbody>
       </table>
     </section>
