@@ -20,7 +20,7 @@ export const genVal = async (newData: unknown) => {
 
   let ArrayData = [];
 
-  for (let i = 9999; i <= 19999; i++) {
+  for (let i = 1; i <= 250; i++) {
     ArrayData.push(result.data.wa + i.toString().padStart(6, "0"));
   }
 

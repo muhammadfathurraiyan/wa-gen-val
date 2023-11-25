@@ -1,24 +1,31 @@
 import Link from "next/link";
-import puppeteer from "puppeteer";
+import { Client, LocalAuth } from "whatsapp-web.js";
 
 export default async function page() {
-  const browser = await puppeteer.launch({
-    headless: false,
-    userDataDir: "./profileData",
+  const allSessionObject = {};
+  const client = new Client({
+    puppeteer: {
+      headless: false,
+    },
+    authStrategy: new LocalAuth({
+      clientId: "MyId",
+    }),
   });
-  const page = await browser.newPage();
-  await page.goto("https://web.whatsapp.com");
-  browser.on("targetdestroyed", async () => {
-    console.log(
-      "Page tertutup. jika sudah login anda dapat menggunakan fitur generator dan validator"
-    );
-    browser.close();
+
+  client.on("qr", (qr) => {
+    console.log("QR RECEIVED", qr);
   });
+
+  client.on("ready", () => {
+    console.log("Client is ready!");
+  });
+
+  client.initialize();
   return (
     <section className="w-full min-h-screen flex flex-col items-center justify-center gap-4">
       <p className="text-center">
         Membuka chromium... <br /> scan / login ke Whatsapp... <br /> setelah
-        anda login, anda dapat menutup chromium tab / page dan klik pada tombol
+        anda login, anda dapat menutup chromium tab / page dan klik m tombol
         lanjut...
       </p>
       <Link
