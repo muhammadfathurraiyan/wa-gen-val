@@ -1,0 +1,25 @@
+2023/11/26-23:56:28.303 72cc Reusing MANIFEST D:\file\belajar next\wa-gen-val\.wwebjs_auth\session-MyId\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/26-23:56:28.304 72cc Recovering log #439
+2023/11/26-23:56:28.319 72cc Reusing old log D:\file\belajar next\wa-gen-val\.wwebjs_auth\session-MyId\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000439.log 
+2023/11/26-23:56:28.319 72cc Delete type=2 #438
+2023/11/26-23:56:29.965 2024 Level-0 table #444: started
+2023/11/26-23:56:30.045 2024 Level-0 table #444: 80873 bytes OK
+2023/11/26-23:56:30.069 2024 Delete type=0 #439
+2023/11/26-23:56:30.088 2024 Manual compaction at level-0 from '\x00\x8e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x8f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x8f\x00\x00\x05' @ 232516 : 1
+2023/11/26-23:56:30.088 2024 Compacting 1@0 + 1@1 files
+2023/11/26-23:56:30.534 2024 Generated table #445@0: 70917 keys, 1498263 bytes
+2023/11/26-23:56:30.543 2024 Compacted 1@0 + 1@1 files => 1498263 bytes
+2023/11/26-23:56:30.580 2024 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/26-23:56:30.581 2024 Delete type=2 #444
+2023/11/26-23:56:30.582 2024 Manual compaction at level-0 from '\x00\x8f\x00\x00\x05' @ 232516 : 1 .. '\x00\x8f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/26-23:56:30.619 2718 Level-0 table #447: started
+2023/11/26-23:56:30.826 2718 Level-0 table #447: 2477 bytes OK
+2023/11/26-23:56:30.859 2718 Delete type=2 #441
+2023/11/26-23:56:30.859 2718 Delete type=0 #443
+2023/11/26-23:56:30.860 2718 Manual compaction at level-0 from '\x00\x8f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x90\x00\x00\x00' @ 0 : 0; will stop at '\x00\x8f\x00\x00\x05' @ 232852 : 0
+2023/11/26-23:56:30.860 2718 Compacting 1@0 + 1@1 files
+2023/11/26-23:56:31.260 2718 Generated table #448@0: 70930 keys, 1500544 bytes
+2023/11/26-23:56:31.260 2718 Compacted 1@0 + 1@1 files => 1500544 bytes
+2023/11/26-23:56:31.291 2718 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/26-23:56:31.292 2718 Delete type=2 #447
+2023/11/26-23:56:31.292 2718 Manual compaction at level-0 from '\x00\x8f\x00\x00\x05' @ 232852 : 0 .. '\x00\x90\x00\x00\x00' @ 0 : 0; will stop at (end)

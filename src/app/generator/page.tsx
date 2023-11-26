@@ -1,8 +1,9 @@
 "use client";
-import { genVal } from "@/action/action";
+import { ApiPost, genVal } from "@/action/action";
 import { HLRSchema } from "@/lib/types";
 import axios from "axios";
 import { useRef, useState } from "react";
+import { Client, LocalAuth } from "whatsapp-web.js";
 
 export default function page() {
   const [error, setError] = useState("");
@@ -38,29 +39,18 @@ export default function page() {
     }
   };
 
-  const apiCall = async (number: string) => {
-    const response = await fetch("/generator/api", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(number),
-    });
-
-    const data = await response.json();
-    console.log(data.numberExists);
-    if (data.numberExists === true) {
-      setValid((prev) => [...prev, number]);
-    }
+  const apiCall = async () => {
+    const validNumber = await ApiPost("+6282361564525");
+    console.log(validNumber);
   };
 
-  // apiCall("6282361564525");
+  apiCall();
 
-  if (response.length > 1) {
-    for (let i = 0; i <= response.length; i++) {
-      apiCall(response[i]);
-    }
-  }
+  // if (response.length > 1) {
+  //   for (let i = 0; i <= response.length; i++) {
+  //     apiCall(response[i]);
+  //   }
+  // }
 
   return (
     <section className="min-h-screen px-24 py-12 flex flex-col gap-4">
