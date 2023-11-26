@@ -15,7 +15,7 @@ export async function POST(request: Request) {
 
   client.on("ready", async () => {
     console.log("Client is ready!");
-    const numberExists = await client.isRegisteredUser(number);
+    const numberExists = await client.isRegisteredUser(`+${number}`);
     console.log(numberExists);
     return Response.json({ numberExists });
   });

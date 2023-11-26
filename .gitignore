@@ -14,6 +14,9 @@
 /.next/
 /out/
 
+/.wwebjs_auth/
+/.wwebjs_cache
+
 # production
 /build
 

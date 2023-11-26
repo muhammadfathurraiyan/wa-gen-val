@@ -39,18 +39,20 @@ export default function page() {
     }
   };
 
-  const apiCall = async () => {
-    const validNumber = await ApiPost("+6282361564525");
+  const apiCall = async (number: string) => {
+    const validNumber = await ApiPost(number);
+    console.log(number);
     console.log(validNumber);
+    if (validNumber) {
+      setValid((prev) => [...prev, number]);
+    }
   };
 
-  apiCall();
-
-  // if (response.length > 1) {
-  //   for (let i = 0; i <= response.length; i++) {
-  //     apiCall(response[i]);
-  //   }
-  // }
+  if (response.length > 1) {
+    for (let i = 0; i <= response.length; i++) {
+      apiCall(response[i]);
+    }
+  }
 
   return (
     <section className="min-h-screen px-24 py-12 flex flex-col gap-4">

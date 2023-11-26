@@ -21,7 +21,7 @@ export const genVal = async (newData: unknown) => {
 
   let ArrayData = [];
 
-  for (let i = 1; i <= 250; i++) {
+  for (let i = 564524; i <= 564529; i++) {
     ArrayData.push(result.data.wa + i.toString().padStart(6, "0"));
   }
 
@@ -44,7 +44,7 @@ export async function ApiPost(number: string) {
 
     let isExist;
 
-    // client.initialize();
+    client.initialize();
 
     client.on("ready", async () => {
       try {
@@ -53,47 +53,11 @@ export async function ApiPost(number: string) {
         console.log(numberExists);
         isExist = numberExists;
         resolve({ isExist });
+        client.destroy();
       } catch (e) {
         resolve({ e });
-      } finally {
-        client.destroy();
       }
     });
+
   });
 }
-
-// export async function ApiPost(number: string) {
-//   const allSessionObject = {};
-
-//   const client = new Client({
-//     puppeteer: {
-//       headless: false,
-//     },
-//     authStrategy: new LocalAuth({
-//       clientId: "MyId",
-//     }),
-//   });
-
-//   let data;
-
-//   client.on("ready", async () => {
-//     console.log("Client is ready!");
-//     const isExist = await client.isRegisteredUser(number);
-//     console.log(isExist);
-//   });
-
-//   return { data };
-// }
-
-// // try {
-// //   // Wait for the client to be ready
-
-// //   setInterval(async () => {
-// //     const isExist = await client.isRegisteredUser(number);
-// //     const data = isExist ? "true" : "false";
-// //     return { data };
-// //   }, 30000);
-// // } catch (error) {
-// //   console.error("Error in ApiPost:", error);
-// //   return { error: error }; // You may want to handle errors appropriately
-// // }
