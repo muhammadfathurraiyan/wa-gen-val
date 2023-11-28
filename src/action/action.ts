@@ -3,11 +3,6 @@ import { HLRSchema } from "@/lib/types";
 import { revalidatePath } from "next/cache";
 import { Client, LocalAuth } from "whatsapp-web.js";
 
-type TData = {
-  wa: string;
-  isActive: boolean;
-};
-
 export const genVal = async (newData: unknown) => {
   const result = HLRSchema.safeParse(newData);
 
@@ -21,8 +16,8 @@ export const genVal = async (newData: unknown) => {
 
   let ArrayData = [];
 
-  for (let i = 564524; i <= 564529; i++) {
-    ArrayData.push(result.data.wa + i.toString().padStart(6, "0"));
+  for (let i = 0; i <= 999; i++) {
+    ArrayData.push(result.data.wa + i.toString().padStart(3, "0"));
   }
 
   revalidatePath("/");

@@ -1,14 +1,12 @@
 "use client";
 import { ApiPost, genVal } from "@/action/action";
 import { HLRSchema } from "@/lib/types";
-import axios from "axios";
-import { useRef, useState } from "react";
-import { Client, LocalAuth } from "whatsapp-web.js";
+import { useEffect, useRef, useState } from "react";
 
 export default function page() {
   const [error, setError] = useState("");
   const [response, setResponse] = useState([""]);
-  const [valid, setValid] = useState([""]);
+  const [valid, setValid] = useState<string[]>([]);
   const ref = useRef<HTMLFormElement>(null);
 
   const clientAction = async (data: FormData) => {
@@ -39,20 +37,28 @@ export default function page() {
     }
   };
 
+  let datas = [""];
+
   const apiCall = async (number: string) => {
-    const validNumber = await ApiPost(number);
+    const validNumber = (await ApiPost(number)) as any;
     console.log(number);
     console.log(validNumber);
-    if (validNumber) {
+    if (validNumber.isExist) {
       setValid((prev) => [...prev, number]);
     }
   };
 
-  if (response.length > 1) {
-    for (let i = 0; i <= response.length; i++) {
-      apiCall(response[i]);
+  const looping = async () => {
+    if (response.length > 1) {
+      for (let i = 0; i <= response.length; i++) {
+        await apiCall(response[i]);
+      }
     }
-  }
+  };
+
+  useEffect(() => {
+    looping();
+  }, [response.length > 1]);
 
   return (
     <section className="min-h-screen px-24 py-12 flex flex-col gap-4">
