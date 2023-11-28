@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-/** @type {import('webpack').DefinePlugin} */
+var webpack = require('webpack');
 const nextConfig = {
   experimental: {
     serverComponentsExternalPackages: ["puppeteer"],
