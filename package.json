@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "FLUENTFFMPEG_COV=0 next dev",
     "build": "FLUENTFFMPEG_COV=0 next build",
-    "start": "next start",
+    "start": "FLUENTFFMPEG_COV=0 next start",
     "lint": "next lint",
     "postinstall": "prisma generate"
   },
