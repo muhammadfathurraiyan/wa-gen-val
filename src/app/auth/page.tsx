@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Client, LocalAuth } from "whatsapp-web.js";
 
-export default async function page() {
+export default async function Auth() {
   const allSessionObject = {};
   const client = new Client({
     puppeteer: {

@@ -4,7 +4,7 @@ import { HLRSchema } from "@/lib/types";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 
-export default function page() {
+export default function Generator() {
   const [error, setError] = useState("");
   const [response, setResponse] = useState([""]);
   const [valid, setValid] = useState<string[]>([]);

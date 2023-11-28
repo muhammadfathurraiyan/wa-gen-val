@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default async function page() {
+export default async function Home() {
   return (
     <section className="w-full min-h-screen flex flex-col items-center justify-center gap-4 max-lg:px-4">
       <h1 className="text-2xl font-bold">WhatsAppGenVal.</h1>

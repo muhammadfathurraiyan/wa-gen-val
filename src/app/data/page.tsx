@@ -1,7 +1,7 @@
 import prisma from "@/lib/prisma";
 import Link from "next/link";
 
-export default async function page() {
+export default async function Data() {
   const valid = await prisma.data.findMany();
   return (
     <section className="min-h-screen relative px-24 py-12 max-lg:px-4 flex flex-col gap-4">
