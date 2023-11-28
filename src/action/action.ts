@@ -32,7 +32,7 @@ export async function ApiPost(number: string) {
     const client = new Client({
       puppeteer: {
         headless: true,
-        args: ["--no-sandbox", "--disable-setuid-sandbox"],
+        args: ["--no-sandbox"],
       },
       authStrategy: new LocalAuth({
         clientId: "MyId",
