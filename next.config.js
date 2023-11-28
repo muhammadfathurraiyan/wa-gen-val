@@ -24,10 +24,4 @@ const nextConfig = {
   },
 };
 
-module.exports = {
-  plugins: [
-    new webpack.DefinePlugin({
-      "process.env.FLUENTFFMPEG_COV": false,
-    }),
-  ],
-};
+module.exports = nextConfig

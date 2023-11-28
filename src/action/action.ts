@@ -41,6 +41,9 @@ export async function ApiPost(number: string) {
           "--no-zygote",
           "--disable-gpu",
         ],
+        env: {
+          DISPLAY : ":10.0"
+        }
       },
       authStrategy: new LocalAuth({
         clientId: "MyId",
