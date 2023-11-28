@@ -4,6 +4,7 @@ import { HLRSchema } from "@/lib/types";
 import { revalidatePath } from "next/cache";
 import { Client, LocalAuth } from "whatsapp-web.js";
 const chromium = require("@sparticuz/chromium");
+const puppeteer = require("puppeteer-core");
 
 export const genVal = async (newData: unknown) => {
   const result = HLRSchema.safeParse(newData);
