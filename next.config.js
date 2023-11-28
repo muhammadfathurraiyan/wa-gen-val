@@ -1,13 +1,15 @@
 /** @type {import('next').NextConfig} */
-import { DefinePlugin } from "webpack";
+/** @type {import('webpack').DefinePlugin} */
 const nextConfig = {
   experimental: {
     serverComponentsExternalPackages: ["puppeteer"],
   },
 };
 
-export const plugins = [
-  new DefinePlugin({
-    "process.env.FLUENTFFMPEG_COV": false,
-  }),
-];
+module.exports = {
+  plugins: [
+    new webpack.DefinePlugin({
+      "process.env.FLUENTFFMPEG_COV": false,
+    }),
+  ],
+};
