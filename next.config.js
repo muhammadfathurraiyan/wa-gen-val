@@ -11,7 +11,7 @@ let resolveFfmpegPlugin = {
   setup(build) {
     build.onResolve({ filter: /lib-cov\/fluent-ffmpeg/ }, (args) => {
       // fix https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues/573
-      const actualPath = path.join(args.resolveDir, "lib", "fluent-ffmpeg.js");
+      const actualPath = path.join(args.resolveDir, "lib", "fluent-ffmpeg");
       return { path: actualPath };
     });
   },
