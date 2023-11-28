@@ -5,16 +5,8 @@ export default async function Auth() {
   const allSessionObject = {};
   const client = new Client({
     puppeteer: {
-      headless: false,
-      args: [
-        "--no-sandbox",
-        "--disable-setuid-sandbox",
-        "--disable-dev-shm-usage",
-        "--disable-accelerated-2d-canvas",
-        "--no-first-run",
-        "--no-zygote",
-        "--disable-gpu",
-      ],
+      headless: true,
+      args: ["--no-sandbox", "--disable-setuid-sandbox"],
     },
     authStrategy: new LocalAuth({
       clientId: "MyId",
