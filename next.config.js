@@ -1,3 +1,4 @@
+const { webpack } = require("next/dist/compiled/webpack/webpack");
 const path = require("path");
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -17,4 +18,6 @@ let resolveFfmpegPlugin = {
   },
 };
 
-module.exports = resolveFfmpegPlugin;
+module.exports = {
+  plugins: resolveFfmpegPlugin,
+};
