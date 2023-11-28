@@ -1,5 +1,4 @@
-const { webpack } = require('next/dist/compiled/webpack/webpack');
-
+const path = require("path");
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   experimental: {
@@ -7,11 +6,15 @@ const nextConfig = {
   },
 };
 
-module.exports = {
-  plugins: [
-    new webpack.DefinePlugin({
-      "process.env.NODE_ENV": "development",
-      "process.env.FLUENTFFMPEG_COV": false,
-    }),
-  ],
+let resolveFfmpegPlugin = {
+  name: "resolveFfmpeg",
+  setup(build) {
+    build.onResolve({ filter: /lib-cov\/fluent-ffmpeg/ }, (args) => {
+      // fix https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues/573
+      const actualPath = path.join(args.resolveDir, "lib", "fluent-ffmpeg.js");
+      return { path: actualPath };
+    });
+  },
 };
+
+module.exports = resolveFfmpegPlugin;
