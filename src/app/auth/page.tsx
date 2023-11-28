@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Client, LocalAuth } from "whatsapp-web.js";
-import chromium from "@sparticuz/chromium-min";
+const chromium = require("@sparticuz/chromium");
 
 export default async function Auth() {
   const allSessionObject = {};

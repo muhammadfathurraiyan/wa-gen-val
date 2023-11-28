@@ -3,7 +3,7 @@ import prisma from "@/lib/prisma";
 import { HLRSchema } from "@/lib/types";
 import { revalidatePath } from "next/cache";
 import { Client, LocalAuth } from "whatsapp-web.js";
-import chromium from "@sparticuz/chromium-min";
+const chromium = require("@sparticuz/chromium");
 
 export const genVal = async (newData: unknown) => {
   const result = HLRSchema.safeParse(newData);
