@@ -1,27 +1,24 @@
-const webpack = require("webpack");
-const path = require("path");
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: {
-    serverComponentsExternalPackages: ["puppeteer"],
+  webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
+    config.plugins.push(
+      new webpack.DefinePlugin({
+        "process.env.FLUENTFFMPEG_COV": false,
+      })
+    );
+
+    return config;
+  },
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "*",
+        port: "",
+        pathname: "/**",
+      },
+    ],
   },
 };
 
-let resolveFfmpegPlugin = {
-  name: "resolveFfmpeg",
-  setup(build) {
-    build.onResolve({ filter: /lib-cov\/fluent-ffmpeg/ }, (args) => {
-      // fix https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues/573
-      const actualPath = path.join(args.resolveDir, "lib", "fluent-ffmpeg");
-      return { path: actualPath };
-    });
-  },
-};
-
-module.exports = {
-  plugins: [
-    new webpack.EnvironmentPlugin({
-      FLUENTFFMPEG_COV: "",
-    }),
-  ],
-};
+module.exports = nextConfig;
