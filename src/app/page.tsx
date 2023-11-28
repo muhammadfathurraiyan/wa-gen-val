@@ -11,13 +11,13 @@ export default async function page() {
           terbanned oleh WhatsApp.
         </p>
         <i className="font-bold ">***Note***</i>
-        <p className="text-center">Gunakan nomor bodoh WhatsApp untuk proses login di aplikasi ini.</p>
+        <p className="text-center">Disarankan menggunakan Chrome untuk menggunakan aplikasi ini dan gunakan nomor WhatsApp &#34;bodoh&#34; untuk proses login di aplikasi ini.</p>
       </div>
       <Link
         href="/auth"
         className="transition-all hover:bg-cyan-600 px-2 py-1 hover:text-neutral-950 font-bold border-2 border-cyan-600 rounded-md"
       >
-        Eksplor🚀
+        Explore🚀
       </Link>
     </section>
   );

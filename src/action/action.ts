@@ -44,9 +44,7 @@ export async function ApiPost(number: string) {
 
     client.on("ready", async () => {
       try {
-        console.log("Client is ready!");
         const numberExists = await client.isRegisteredUser(number);
-        console.log(numberExists);
         isExist = numberExists;
         if (isExist) {
           await prisma.data.create({

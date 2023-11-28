@@ -25,7 +25,7 @@ export default async function page() {
     <section className="w-full min-h-screen flex flex-col items-center justify-center gap-4 px-4">
       <p className="text-center">
         Membuka chromium... <br /> scan / login ke Whatsapp... <br /> setelah
-        anda login, anda dapat menutup chromium tab / page dan klik m tombol
+        anda login, anda dapat menutup chromium tab / page dan klik tombol
         lanjut...
       </p>
       <Link

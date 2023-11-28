@@ -65,14 +65,24 @@ export default function page() {
       <div>
         <p className="text-lg">Cara menggunakan!</p>
         <ul className="list-disc list-inside text-base">
-          <li>Input HLR ✅</li>
+          <li>
+            Input HLR ✅
+            <span className="text-yellow-500">
+              *note 10 angka berserta kode contoh: 6287654321
+            </span>
+          </li>
           <li>Klik generate ✅</li>
           <li>Tunggu beberapa saat ✅</li>
           <li>Hasil akan tampil pada tabel di bawah ✅</li>
+          <li>Refresh chromium jika terdapat error ✅</li>
         </ul>
       </div>
       <div className="flex justify-between md:items-center max-md:flex-col gap-4">
-        <form ref={ref} action={clientAction} className="flex max-md:flex-col gap-4 max-md:gap-2">
+        <form
+          ref={ref}
+          action={clientAction}
+          className="flex max-md:flex-col gap-4 max-md:gap-2"
+        >
           <label htmlFor="wa">Input HLR :</label>
           <input
             className="bg-inherit border-2 pl-2 py-1 rounded-md border-cyan-600"
@@ -108,7 +118,15 @@ export default function page() {
                 {index + 1}
               </td>
               <td className="px-2 py-1 border-r border-cyan-600">{res}</td>
-              <td className="px-2 py-1">Valid</td>
+              <td className="px-2 py-1">
+                <Link
+                  className="underline hover:no-underline"
+                  target="_blank"
+                  href={`https://wa.me/${res}`}
+                >
+                  Check
+                </Link>
+              </td>
             </tr>
           ))}
         </tbody>
