@@ -3,7 +3,6 @@ import prisma from "@/lib/prisma";
 import { HLRSchema } from "@/lib/types";
 import { revalidatePath } from "next/cache";
 import { Client, LocalAuth } from "whatsapp-web.js";
-const chromium = require("@sparticuz/chromium-min");
 
 export const genVal = async (newData: unknown) => {
   const result = HLRSchema.safeParse(newData);
@@ -32,9 +31,8 @@ export async function ApiPost(number: string) {
     const allSessionObject = {};
     const client = new Client({
       puppeteer: {
-        headless: true,
-        args: chromium.args,
-        executablePath: await chromium.executablePath(),
+        headless: false,
+        args: ["--no-sandbox"],
       },
       authStrategy: new LocalAuth({
         clientId: "MyId",

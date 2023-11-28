@@ -1,14 +1,12 @@
 import Link from "next/link";
 import { Client, LocalAuth } from "whatsapp-web.js";
-const chromium = require("@sparticuz/chromium-min");
 
 export default async function Auth() {
   const allSessionObject = {};
   const client = new Client({
     puppeteer: {
-      headless: true,
-      args: chromium.args,
-      executablePath: await chromium.executablePath(),
+      headless: false,
+      args:['--no-sandbox'],
     },
     authStrategy: new LocalAuth({
       clientId: "MyId",
