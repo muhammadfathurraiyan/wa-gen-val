@@ -1,6 +1,7 @@
 "use client";
 import { ApiPost, genVal } from "@/action/action";
 import { HLRSchema } from "@/lib/types";
+import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 
 export default function page() {
@@ -59,7 +60,7 @@ export default function page() {
   }, [response.length > 1]);
 
   return (
-    <section className="min-h-screen px-24 py-12 flex flex-col gap-4">
+    <section className="min-h-screen px-24 max-lg:px-4 py-12 flex flex-col gap-4">
       <h1 className="font-bold text-2xl">WhatsAppGenVal</h1>
       <div>
         <p className="text-lg">Cara menggunakan!</p>
@@ -70,20 +71,28 @@ export default function page() {
           <li>Hasil akan tampil pada tabel di bawah ✅</li>
         </ul>
       </div>
-      <form ref={ref} action={clientAction} className="flex gap-4">
-        <label htmlFor="wa">Input HLR :</label>
-        <input
-          className="bg-inherit border-2 pl-2 rounded-md border-cyan-600"
-          type="number"
-          name="wa"
-          placeholder="6281234"
-        />
-        <button className="transition-all hover:bg-cyan-600 px-2 hover:text-neutral-950 font-bold border-2 border-cyan-600 rounded-md">
-          Generate
-        </button>
-        <p>{error}</p>
-      </form>
-      <h1 className="font-bold text-xl">Table hasil.</h1>
+      <div className="flex justify-between md:items-center max-md:flex-col gap-4">
+        <form ref={ref} action={clientAction} className="flex max-md:flex-col gap-4 max-md:gap-2">
+          <label htmlFor="wa">Input HLR :</label>
+          <input
+            className="bg-inherit border-2 pl-2 py-1 rounded-md border-cyan-600"
+            type="number"
+            name="wa"
+            placeholder="6281234567"
+          />
+          <button className="transition-all hover:bg-cyan-600 px-2 py-1 hover:text-neutral-950 font-bold border-2 border-cyan-600 rounded-md">
+            Generate
+          </button>
+          <p>{error}</p>
+        </form>
+        <Link
+          className="max-md:-order-1 transition-all w-fit hover:bg-cyan-600 px-2 py-1 hover:text-neutral-950 font-bold border-2 border-cyan-600 rounded-md"
+          href="/data"
+        >
+          List Data
+        </Link>
+      </div>
+      <h1 className="font-bold text-xl">Tabel hasil.</h1>
       <table>
         <thead className="bg-cyan-600 text-neutral-950 border border-cyan-600">
           <tr>

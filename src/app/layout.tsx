@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { IBM_Plex_Mono } from "next/font/google";
 import "./globals.css";
+import Footer from "@/components/Footer";
 
 const IBMPlexMono = IBM_Plex_Mono({
   subsets: ["latin"],
@@ -19,7 +20,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${IBMPlexMono.className} bg-neutral-950 text-cyan-600`}>{children}</body>
+      <body className={`${IBMPlexMono.className} bg-neutral-950 text-cyan-600`}>
+        {children}
+        <Footer />
+      </body>
     </html>
   );
 }
