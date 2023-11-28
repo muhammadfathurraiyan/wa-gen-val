@@ -10,7 +10,7 @@ export default function page() {
   const [valid, setValid] = useState<string[]>([]);
   const ref = useRef<HTMLFormElement>(null);
 
-  const clientAction = async (data: FormData) => {
+  const ClientAction = async (data: FormData) => {
     const newData = {
       wa: data.get("wa"),
     };
@@ -38,7 +38,7 @@ export default function page() {
     }
   };
 
-  const apiCall = async (number: string) => {
+  const ApiCall = async (number: string) => {
     const validNumber = (await ApiPost(number)) as any;
     console.log(number);
     console.log(validNumber);
@@ -47,16 +47,16 @@ export default function page() {
     }
   };
 
-  const looping = async () => {
+  const Looping = async () => {
     if (response.length > 1) {
       for (let i = 0; i <= response.length; i++) {
-        await apiCall(response[i]);
+        await ApiCall(response[i]);
       }
     }
   };
 
   useEffect(() => {
-    looping();
+    Looping();
   }, [response.length > 1]);
 
   return (
@@ -80,7 +80,7 @@ export default function page() {
       <div className="flex justify-between md:items-center max-md:flex-col gap-4">
         <form
           ref={ref}
-          action={clientAction}
+          action={ClientAction}
           className="flex max-md:flex-col gap-4 max-md:gap-2"
         >
           <label htmlFor="wa">Input HLR :</label>
