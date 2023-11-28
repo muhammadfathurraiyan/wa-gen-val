@@ -1,4 +1,5 @@
 "use server";
+import prisma from "@/lib/prisma";
 import { HLRSchema } from "@/lib/types";
 import { revalidatePath } from "next/cache";
 import { Client, LocalAuth } from "whatsapp-web.js";
@@ -47,12 +48,18 @@ export async function ApiPost(number: string) {
         const numberExists = await client.isRegisteredUser(number);
         console.log(numberExists);
         isExist = numberExists;
+        if (isExist) {
+          await prisma.data.create({
+            data: {
+              noWa: number,
+            },
+          });
+        }
         resolve({ isExist });
         client.destroy();
       } catch (e) {
         resolve({ e });
       }
     });
-
   });
 }

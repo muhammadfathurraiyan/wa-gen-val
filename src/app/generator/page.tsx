@@ -37,8 +37,6 @@ export default function page() {
     }
   };
 
-  let datas = [""];
-
   const apiCall = async (number: string) => {
     const validNumber = (await ApiPost(number)) as any;
     console.log(number);
