@@ -1,4 +1,4 @@
-const { webpack } = require("next/dist/compiled/webpack/webpack");
+const webpack = require("webpack");
 const path = require("path");
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -19,5 +19,9 @@ let resolveFfmpegPlugin = {
 };
 
 module.exports = {
-  plugins: resolveFfmpegPlugin,
+  plugins: [
+    new webpack.EnvironmentPlugin({
+      FLUENTFFMPEG_COV: "",
+    }),
+  ],
 };
